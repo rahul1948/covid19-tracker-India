@@ -1,0 +1,23 @@
+.header {
+    background-color:white;
+    color:gray;
+    /* height: 150px; */
+}
+
+.img{
+    display: inline block;
+    margin-left: 40px;
+}
+
+.div1{
+    text-align: center;
+    position: relative;
+    bottom: 68px;
+    font-size: 27px;
+    font-weight: 630;
+    text-decoration: underline blueviolet;
+}
+.div1:hover{
+    color: black;
+
+}

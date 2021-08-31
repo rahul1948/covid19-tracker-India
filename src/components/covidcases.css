@@ -1,0 +1,85 @@
+.h2{
+    text-align: center;
+    /* padding-top: 15px; */
+    text-decoration: underline blueviolet;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.card0{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 20%;
+    background-color:goldenrod;
+    border-radius: 10px;
+    /* display: inline-block; */
+  }
+  
+  .card0:hover {
+    background-color: darkviolet;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .card1:hover {
+    background-color: red;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .card2:hover {
+    background-color: yellowgreen;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .card3:hover {
+    background-color: tomato;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+  .div{
+      display: flex;
+      height: 100px;
+      text-align: center;
+      padding-top: 10px;
+      padding-left: 180px;
+      
+  }
+  .card1 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 20%;
+    margin-left: 20px;
+    background-color: royalblue;
+    border-radius: 10px;
+  
+    /* display: inline-block; */
+  }
+  
+  .card2 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 20%;
+    margin-left: 20px;
+    background-color:darkolivegreen;
+    border-radius: 10px;
+        /* display: inline-block; */
+  }
+  
+  .card3 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 20%;
+    margin-left: 20px;
+    background-color: darkkhaki;
+    border-radius: 10px;
+    /* display: inline-block; */
+  }
+  
+  .container{
+    color: white;
+    font-family:cursive;
+  }
+  .para1{
+    font-size: 18px;
+    
+  }
+  
